@@ -1,4 +1,4 @@
-from collection import Counter
+from collections import Counter
 
 class UnionFind:
     def __init__(self, n: int) -> None:
